@@ -4,3 +4,4 @@ Gregory Davis
 * Has a cat
 * Has an aquarium
 * Favorite color: green
+copyright 2018
