@@ -3,5 +3,5 @@ Gregory Davis
 * Lives in San Francisco, California
 * Has a cat
 * Has an aquarium
-* Favorite color: green
+* Favorite color: red
 copyright 2018
